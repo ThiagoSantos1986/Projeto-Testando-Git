@@ -1,3 +1,3 @@
 # Curso Digital: Git
 
-# Criando Uma nova LInha de Texto.
+# Criando Uma nova Linha de Texto.
